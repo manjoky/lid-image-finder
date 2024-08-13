@@ -1,0 +1,13 @@
+
+torch
+torchvision
+seaborn==0.12.2
+matplotlib
+pandas
+scikit-learn
+requests==2.27.1
+pydantic==2.6.3
+fastapi
+uvicorn
+python-multipart
+gradio
