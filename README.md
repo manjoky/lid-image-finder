@@ -20,7 +20,7 @@ The repository is organized into the following directories:
 #### Preliminary steps
 * Create and activate a virtual environment --> `python -m venv .venv` and `.\.venv\Scripts\activate`
 * Install dependencies --> `pip install -r requirements.txt`
-* Download images --> `python .\data\image-downloader.py --csv_file .\data\image_urls.csv`
+* Download images --> `python .\data\image_downloader.py --csv_file .\data\image_urls.csv`
 * Generate featuresDB --> `python .\data\feature_db_creator.py --csv_file .\data\image_urls.csv`
 
 #### API-specific
